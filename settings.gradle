@@ -1,0 +1,3 @@
+rootProject.name = "library-on-maven"
+include ':app'
+include ':libraryonmaven:hellolibrary'
